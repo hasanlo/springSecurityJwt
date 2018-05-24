@@ -1,1 +1,1 @@
-spring security jwt sample
+spring security jwt sample - v1
